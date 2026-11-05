@@ -6,7 +6,7 @@
 ---
 **Daftar Kelompok**
 - Radiz Dirganta (2411500107) [ Sendiri ]
-
+---
 ## 1. Deskripsi Aplikasi
 
 **TheHoodZ (THZ)** adalah aplikasi web monolitik _e-commerce & backoffice management system_ yang dirancang khusus untuk brand pakaian _streetwear_ (Baju/T-Shirt, Jacket, Sweater, dan Hoodie). Sistem ini mengintegrasikan dua antarmuka utama dalam satu kesatuan arsitektur MVC Laravel:
