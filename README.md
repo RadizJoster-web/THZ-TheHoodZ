@@ -29,7 +29,7 @@ Sistem membedakan hak akses pengguna menjadi **2 Role** yang diamankan melalui `
 
 ---
 
-## 3. Fitur-Fitur Utama Aplikasi (Pemenuhan Spesifikasi UTS)
+## 3. Fitur-Fitur Utama Aplikasi
 
 1. **Dashboard Eksekutif Admin:**
     - **4 KPI Summary Cards:** Total Pendapatan Bersih (Rp), Total Pesanan Masuk (beserta badge pesanan pending), Total Produk & Stok Pakaian, serta Total Pelanggan Terdaftar.
