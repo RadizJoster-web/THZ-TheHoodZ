@@ -4,7 +4,7 @@
 > **Tema Pilihan:** Sistem Informasi Penjualan (Clothing Brand & Manajemen Inventaris Terpadu)
 
 ---
-** Daftar Kelompok **
+**Daftar Kelompok**
 - Radiz Dirganta (2411500107) [ Sendiri ]
 
 ## 1. Deskripsi Aplikasi
